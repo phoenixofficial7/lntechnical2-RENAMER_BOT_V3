@@ -6,9 +6,9 @@ from plugins.cb_data import app as Client2
 
 TOKEN = os.environ.get("TOKEN", "6114987524:AAFMmM0McId5kE95W1qZ1TchrwzRC8_OAUI")
 
-API_ID = int(os.environ.get("API_ID", ""))
+API_ID = int(os.environ.get("API_ID", "13132442"))
 
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "54484b8b13b1c2357b6087b196510e21")
 
 STRING = os.environ.get("STRING", "AQBtn4EAazDgWzlZ-KRdkoeB1bAj3SsCS_PsXtoAHzYm1opq4LXEpnLsnMDI1Pa3iSvgVTgkNi-Jxa5NWz3y286Ub9wtxwbsG9HZ--8D3fjsBFfAmb_86t2EWhD8EoGQr30w1x5QZPgUJk91dOm6zGnStW1B6GqrpPWAUEY6ChHxgn-LB9U0Kk0qzd51xG1UO8MN2qczsDoV7CdHov_MUM1bGIVqzFxeItI0E_tNwKmFFVMP4UwnxOqVOyAWD3f1Y6nRk6WO3zpQd-YTWDPQ_EAJEXhtPHafb3tn_z-MySsql-UvqEhzavDCkAdPtqJv0hn54mUyF8Y0dBZJ-zDWDqbX8FFuwgAAAAE3HbfHAA")
 
